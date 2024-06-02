@@ -1,0 +1,3 @@
+namespace BasicProjectTemplate.SharedLibrary.AzureServiceBus;
+
+public interface IMessage;

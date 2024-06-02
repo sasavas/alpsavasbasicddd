@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Alp Savas",
+  "classifications": [ "Web", "API", "DDD" ],
+  "identity": "alpsavas.ddd.basic",
+  "name": "DDD Base Application",
+  "shortName": "alpsavasbasicddd",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "BasicProjectTemplate",
+  "preferNameDirectory": true,
+  "symbols": {
+    "solutionName": {
+      "type": "parameter",
+      "dataType": "string",
+      "replaces": "BasicProjectTemplate",
+      "description": "The name of the solution"
+    }
+  }
+}
+
